@@ -16,7 +16,7 @@ The Brave Search Agent is a tool that allows you to search the internet using th
 
 2. **Clone the Repository**:
    ```
-   git clone https://github.com/your-username/archon.git
+   git clone https://github.com/gevans3000/agent1.git
    cd archon
    ```
 
