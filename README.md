@@ -17,7 +17,7 @@ The Brave Search Agent is a tool that allows you to search the internet using th
 2. **Clone the Repository**:
    ```
    git clone https://github.com/gevans3000/agent1.git
-   cd archon
+   cd agent1
    ```
 
 3. **Set Up the Virtual Environment**:
@@ -59,8 +59,8 @@ The Brave Search Agent is a tool that allows you to search the internet using th
 
 1. **Environment Setup**:
    ```
-   git clone https://github.com/your-username/archon.git
-   cd archon
+   git clone https://github.com/gevans3000/agent1
+   cd agent1
    python -m venv venv
    
    # On Windows
