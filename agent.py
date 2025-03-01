@@ -79,6 +79,10 @@ class BraveSearchAgent:
         }
 
 # Example usage
+def calculate_square(number: int) -> int:
+    """Calculate the square of a number."""
+    return number * number
+
 if __name__ == "__main__":
     import asyncio
     
